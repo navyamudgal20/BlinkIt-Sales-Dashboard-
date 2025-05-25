@@ -1,2 +1,13 @@
-# BlinkIt-Sales-Dashboard-
-As part of my hands-on learning for Data Analytics, I recreated a dashboard inspired by Blinkit (India's leading quick-commerce platform) — entirely in Microsoft Excel! 📊✨
+# 📊 Blinkit-Inspired Dashboard in Excel
+
+This project showcases an interactive dashboard built using **Microsoft Excel**, inspired by **Blinkit** — a leading quick-commerce platform in India. The dashboard is designed to simulate real-world business metrics such as order trends, revenue analysis, and customer segmentation.
+
+---
+
+## 🧩 Features
+
+- ✅ Order Volume Trend by Day & Category  
+- ✅ Revenue & Delivery Time Insights  
+- ✅ Customer Segmentation Visualization  
+- ✅ Interactive Slicers & Filters  
+- ✅ Clean, Business-Friendly Layout
